@@ -37,3 +37,26 @@ This project presents an end-to-end Business Intelligence solution built using t
 The dashboard enables stakeholders to monitor key business metrics, evaluate operational performance, and identify opportunities across multiple areas of the business, including revenue, orders, products, customers, sellers, delivery performance, payment methods, and customer reviews.
 
 The solution was developed by combining SQL for data analysis, Power Query for data transformation, DAX for KPI calculations, and Power BI for interactive dashboard development.
+---
+
+# 🎯 Business Problem
+
+E-commerce businesses generate large volumes of transactional data every day. However, without proper analysis, it is difficult to identify sales trends, monitor operational performance, understand customer behavior, and make informed business decisions.
+
+The objective of this project was to transform raw e-commerce data into an interactive Business Intelligence solution that enables stakeholders to monitor key performance indicators (KPIs), evaluate business performance, and identify opportunities for improvement across different business functions.
+---
+
+# 🎯 Business Objectives
+
+The project was designed to answer key business questions, including:
+
+- How is revenue changing over time?
+- Which product categories generate the highest revenue?
+- Which states contribute the most sales?
+- What are the most common payment methods?
+- Which sellers generate the highest revenue?
+- How efficiently are orders delivered?
+- How satisfied are customers based on review scores?
+- Which business metrics should executives monitor regularly?
+
+- 
