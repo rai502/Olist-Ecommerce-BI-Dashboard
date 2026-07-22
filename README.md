@@ -1,4 +1,4 @@
-# 📊 Olist E-commerce Business Intelligence Dashboard
+# 📊 Olist E-commerce Business Intelligence Project
 
 > An end-to-end Business Intelligence project analyzing Brazil's Olist e-commerce marketplace using **PostgreSQL**, **SQL**, **Power BI**, **Power Query**, and **DAX**.
 
@@ -27,3 +27,13 @@
 - [Skills Demonstrated](#skills-demonstrated)
 - [Repository Structure](#repository-structure)
 - [Future Improvements](#future-improvements)
+
+- ---
+
+# 📌 Project Overview
+
+This project presents an end-to-end Business Intelligence solution built using the **Olist Brazilian E-commerce Dataset**. The objective was to transform raw transactional data into meaningful business insights through data cleaning, modeling, analysis, and interactive visualization.
+
+The dashboard enables stakeholders to monitor key business metrics, evaluate operational performance, and identify opportunities across multiple areas of the business, including revenue, orders, products, customers, sellers, delivery performance, payment methods, and customer reviews.
+
+The solution was developed by combining SQL for data analysis, Power Query for data transformation, DAX for KPI calculations, and Power BI for interactive dashboard development.
