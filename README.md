@@ -1,6 +1,6 @@
 # 📊 Olist E-commerce Business Intelligence Project
 
-> An end-to-end Business Intelligence project analyzing Brazil's Olist e-commerce marketplace using **PostgreSQL**, **SQL**, **Power BI**, **Power Query**, and **DAX**.
+> An end-to-end Business Intelligence project built using the Olist Brazilian E-commerce Dataset to analyze sales, customers, products, sellers, delivery performance, payments, and customer reviews through SQL and Power BI.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
