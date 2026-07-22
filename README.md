@@ -1,4 +1,4 @@
-# 📊 Olist E-commerce Business Intelligence Project
+# Olist E-commerce Business Intelligence Project
 
 > An end-to-end Business Intelligence project built using the Olist Brazilian E-commerce Dataset to analyze sales, customers, products, sellers, delivery performance, payments, and customer reviews through SQL and Power BI.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
@@ -30,7 +30,7 @@
 
 - ---
 
-# 📌 Project Overview
+# Project Overview
 
 This project presents an end-to-end Business Intelligence solution built using the **Olist Brazilian E-commerce Dataset**. The objective was to transform raw transactional data into meaningful business insights through data cleaning, modeling, analysis, and interactive visualization.
 
@@ -39,14 +39,14 @@ The dashboard enables stakeholders to monitor key business metrics, evaluate ope
 The solution was developed by combining SQL for data analysis, Power Query for data transformation, DAX for KPI calculations, and Power BI for interactive dashboard development.
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 E-commerce businesses generate large volumes of transactional data every day. However, without proper analysis, it is difficult to identify sales trends, monitor operational performance, understand customer behavior, and make informed business decisions.
 
 The objective of this project was to transform raw e-commerce data into an interactive Business Intelligence solution that enables stakeholders to monitor key performance indicators (KPIs), evaluate business performance, and identify opportunities for improvement across different business functions.
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 The project was designed to answer key business questions, including:
 
@@ -59,4 +59,3 @@ The project was designed to answer key business questions, including:
 - How satisfied are customers based on review scores?
 - Which business metrics should executives monitor regularly?
 
-- 
