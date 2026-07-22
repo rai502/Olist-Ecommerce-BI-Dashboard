@@ -52,10 +52,45 @@ The project was designed to answer key business questions, including:
 
 - How is revenue changing over time?
 - Which product categories generate the highest revenue?
-- Which states contribute the most sales?
+- Which Brazilian states contribute the highest revenue?
 - What are the most common payment methods?
 - Which sellers generate the highest revenue?
 - How efficiently are orders delivered?
 - How satisfied are customers based on review scores?
 - Which business metrics should executives monitor regularly?
+
+---
+
+# Dataset
+
+This project uses the **Olist Brazilian E-commerce Public Dataset**, which contains information on customer orders placed through the Olist marketplace in Brazil.
+
+The dataset includes multiple related tables covering:
+
+- Customers
+- Orders
+- Order Items
+- Products
+- Sellers
+- Payments
+- Reviews
+- Geolocation
+- Product Category Translation
+
+The relational structure of the dataset makes it suitable for end-to-end Business Intelligence projects involving data modeling, SQL analysis, KPI development, and dashboard creation.
+
+---
+
+# Technology Stack
+
+| Category | Tools Used |
+|----------|------------|
+| Database | PostgreSQL |
+| Query Language | SQL |
+| Data Visualization | Power BI Desktop |
+| Data Transformation | Power Query |
+| KPI Development | DAX |
+| Data Modeling | Power BI Relationships |
+| Dataset | Olist Brazilian E-commerce Dataset |
+
 
