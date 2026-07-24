@@ -99,4 +99,23 @@ The dashboard is built on a relational data model using the Olist Brazilian E-co
 This data model enables accurate KPI calculations, efficient filtering, and interactive analysis across multiple business areas, including revenue, orders, products, customers, sellers, delivery, payments, and customer reviews.
 <img src="Dashboard/Images/Data_Model.png" width="1000">
 
+## ETL Process
+
+The dashboard follows a complete ETL (Extract, Transform, Load) workflow before analysis.
+
+### Extract
+- Imported multiple Olist CSV datasets into PostgreSQL.
+- Connected Power BI to PostgreSQL for data retrieval.
+
+### Transform
+- Cleaned missing values.
+- Corrected data types.
+- Created calculated columns for delivery days, delivery status, order hour, weekday, and customer/seller display fields.
+- Translated Portuguese product categories into English.
+- Removed unnecessary columns and optimized the model.
+
+### Load
+- Built a star-schema style data model in Power BI.
+- Created relationships between orders, customers, products, sellers, payments, reviews, and categories.
+- Developed DAX measures and KPIs for interactive dashboard reporting.
 
