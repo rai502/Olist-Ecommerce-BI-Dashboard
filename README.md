@@ -119,3 +119,20 @@ The dashboard follows a complete ETL (Extract, Transform, Load) workflow before 
 - Created relationships between orders, customers, products, sellers, payments, reviews, and categories.
 - Developed DAX measures and KPIs for interactive dashboard reporting.
 
+# Dashboard Overview
+
+The Power BI dashboard consists of **9 interactive report pages**, each focusing on a different business area of the Olist Brazilian E-commerce marketplace.
+
+| Dashboard | Description |
+|------------|-------------|
+| Executive Overview | High-level business KPIs including revenue, orders, customers, sellers, ratings, and delivery performance. |
+| Revenue Analysis | Revenue trends, top product categories, seller performance, and revenue distribution. |
+| Order Analysis | Order volume, basket size, order status, hourly and weekly order trends. |
+| Product Analysis | Product performance, category contribution, average selling price, and top-selling products. |
+| Customer Analysis | Customer distribution, repeat purchase rate, customer revenue, and geographic insights. |
+| Seller Analysis | Seller revenue, orders, products sold, and seller performance comparison. |
+| Delivery Analysis | Delivery time, shipping performance, late deliveries, and delivery efficiency by state and city. |
+| Payment Analysis | Payment methods, payment value, installments, and payment trends. |
+| Review Analysis | Customer ratings, review trends, satisfaction analysis, and review score distribution. |
+
+
