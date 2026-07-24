@@ -142,3 +142,60 @@ Provides a high-level overview of the business with key KPIs including revenue, 
 <p align="center">
   <img src="Dashboard/Images/01_Executive_Dashboard.png" width="1000">
 </p>
+
+## 2. Revenue Analysis
+
+Analyzes revenue performance across time, product categories, and sellers. This dashboard highlights monthly revenue trends, top-performing categories, leading sellers, and the relationship between seller revenue and order volume.
+<p align="center">
+  <img src="Dashboard/Images/02_Revenue_Analysis.png" width="1000">
+</p>
+
+## 3. Order Analysis
+
+Provides insights into order patterns, order status distribution, purchase behavior, and order trends over time. This dashboard helps evaluate customer purchasing activity and overall order performance.
+<p align="center">
+  <img src="Dashboard/Images/03_Order_Analysis.png" width="1000">
+</p>
+
+## 4. Product Analysis
+
+Explores product and category performance by analyzing sales, revenue, average selling price, and product popularity. This dashboard identifies top-performing products and categories to support inventory and merchandising decisions.
+<p align="center">
+  <img src="Dashboard/Images/04_Product_Analysis.png" width="1000">
+</p>
+
+## 5. Customer Analysis
+
+Examines customer behavior, geographic distribution, purchasing patterns, and customer contribution to revenue. This dashboard provides insights into customer segments and helps identify opportunities to improve customer retention and business growth.
+<p align="center">
+  <img src="Dashboard/Images/05_Customer_Analysis.png" width="1000">
+</p>
+
+## 6. Seller Analysis
+
+Evaluates seller performance by comparing revenue, order volume, product sales, and seller contribution across the marketplace. This dashboard helps identify top-performing sellers and supports performance benchmarking.
+<p align="center">
+  <img src="Dashboard/Images/06_Seller_Analysis.png" width="1000">
+</p>
+
+## 7. Delivery Analysis
+
+Analyzes shipping performance, delivery timelines, and fulfillment efficiency. This dashboard highlights delivery delays, average delivery time, and geographic shipping performance to identify opportunities for operational improvement.
+<p align="center">
+  <img src="Dashboard/Images/07_Delivery_Analysis.png" width="1000">
+</p>
+
+## 8. Payment Analysis
+
+Provides insights into customer payment behavior by analyzing payment methods, installment usage, payment values, and transaction trends. This dashboard helps understand purchasing preferences and supports financial decision-making.
+<p align="center">
+  <img src="Dashboard/Images/08_Payment_Analysis.png" width="1000">
+</p>
+
+## 9. Review Analysis
+
+Analyzes customer feedback and satisfaction by examining review scores, review trends, and rating distributions. This dashboard helps evaluate customer experience, identify service quality issues, and uncover opportunities to improve customer satisfaction.
+<p align="center">
+  <img src="Dashboard/Images/09_Review_Analysis.png" width="1000">
+</p>
+
