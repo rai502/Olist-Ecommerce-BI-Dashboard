@@ -97,8 +97,6 @@ The relational structure of the dataset makes it suitable for end-to-end Busines
 
 The dashboard is built on a relational data model using the Olist Brazilian E-commerce Dataset. The model connects orders, customers, order items, products, sellers, payments, reviews, and product category tables through primary and foreign key relationships.
 This data model enables accurate KPI calculations, efficient filtering, and interactive analysis across multiple business areas, including revenue, orders, products, customers, sellers, delivery, payments, and customer reviews.
-<p align="center">
-  <img src="Images/Data_Model.png" width="1000">
-</p>
+<img src="Dashboard/Images/Data_Model.png" width="1000">
 
 
