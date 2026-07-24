@@ -208,3 +208,6 @@ Analyzes customer feedback and satisfaction by examining review scores, review t
   <img src="Dashboard/Images/09_Review_Analysis.png" width="1000">
 </p>
 
+# SQL Analysis
+This project uses PostgreSQL to perform business analysis on the Olist Brazilian E-commerce dataset. SQL was used to clean, transform, aggregate, and analyze the data before building the Power BI dashboard.
+The analysis focuses on answering real-world business questions related to sales performance, customer behavior, product performance, seller efficiency, delivery operations, payments, and customer reviews.
