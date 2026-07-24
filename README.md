@@ -135,4 +135,10 @@ The Power BI dashboard consists of **9 interactive report pages**, each focusing
 | Payment Analysis | Payment methods, payment value, installments, and payment trends. |
 | Review Analysis | Customer ratings, review trends, satisfaction analysis, and review score distribution. |
 
+# Dashboard Screenshots
+## 1. Executive Dashboard
 
+Provides a high-level overview of the business with key KPIs including revenue, orders, customers, sellers, ratings, and delivery performance.
+<p align="center">
+  <img src="Dashboard/Images/01_Executive_Dashboard.png" width="1000">
+</p>
