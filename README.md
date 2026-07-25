@@ -93,6 +93,24 @@ The relational structure of the dataset makes it suitable for end-to-end Busines
 | Data Modeling | Power BI Relationships |
 | Dataset | Olist Brazilian E-commerce Dataset |
 
+## Dataset
+
+This project uses the **Olist Brazilian E-commerce Public Dataset**, which contains real-world e-commerce data including customers, orders, products, sellers, payments, reviews, and delivery information.
+
+**Dataset Source:**  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+### Tables Used
+
+- customers
+- orders
+- order_items
+- products
+- sellers
+- payments
+- reviews
+- category_translation
+
 #  Data Model
 
 The dashboard is built on a relational data model using the Olist Brazilian E-commerce Dataset. The model connects orders, customers, order items, products, sellers, payments, reviews, and product category tables through primary and foreign key relationships.
