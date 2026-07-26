@@ -1,4 +1,4 @@
-# Olist E-commerce Business Intelligence Project
+# Olist E-commerce Sales Analytics Project
 
 > An end-to-end Business Intelligence project built using the Olist Brazilian E-commerce Dataset to analyze sales, customers, products, sellers, delivery performance, payments, and customer reviews through SQL and Power BI.
 
