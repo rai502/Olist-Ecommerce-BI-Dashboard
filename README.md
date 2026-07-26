@@ -229,3 +229,35 @@ Analyzes customer feedback and satisfaction by examining review scores, review t
 # SQL Analysis
 This project uses PostgreSQL to perform business analysis on the Olist Brazilian E-commerce dataset. SQL was used to clean, transform, aggregate, and analyze the data before building the Power BI dashboard.
 The analysis focuses on answering real-world business questions related to sales performance, customer behavior, product performance, seller efficiency, delivery operations, payments, and customer reviews.
+
+# Key Business Insights
+
+[#key-business-insights](#key-business-insights)
+
+- **Revenue and scale:** The platform processed $13.22M in revenue across 99,441 orders (96,478 delivered) from 96,096 unique customers and 3,095 sellers between late 2016 and August 2018.
+
+- **Geographic concentration is extreme.** São Paulo (SP) alone accounts for 38.3% of total revenue ($5.07M), more than the next four states combined (Rio de Janeiro, Minas Gerais, Rio Grande do Sul, and Paraná). Revenue is not distributed evenly across Brazil — it is a São Paulo–driven marketplace.
+
+- **Health & beauty is the leading category, but not by a wide margin.** health_beauty generated $1.26M (9.3% of item revenue), narrowly ahead of watches_gifts ($1.21M) and bed_bath_table ($1.04M). The top five categories are closely clustered rather than dominated by one clear leader.
+
+- **Delivery performance is solid but not uniform.** Average delivery time is 12.5 days with a 92.1% on-time rate — meaning roughly 7,800 orders arrived late. Delivery reliability is a measurable minority-but-material risk, not a rare exception.
+
+- **Customer satisfaction is polarized, not uniformly high.** While the average review score is 4.09/5, the distribution is bimodal: 57.8% of reviews are 5-star, but 11.5% are 1-star — nearly four times the 2-star rate. A high average masks a meaningful unhappy-customer segment.
+
+- **Credit card dominates payment behavior.** 73.9% of transactions use credit card, representing 78% of total payment value, with an average of 2.85 installments per order — indicating heavy reliance on installment-based purchasing common in the Brazilian market.
+
+- **Data completeness note:** The dataset contains no order records after August 2018 — the apparent revenue decline in September–October reflects the end of data collection, not a real business trend.
+
+---
+
+# Business Recommendations
+
+[#business-recommendations](#business-recommendations)
+
+- **Investigate the 1-star review segment specifically**, rather than relying on the average rating. With 11.5% of reviews at 1-star against a healthy 4.09 average, aggregate satisfaction metrics are hiding a meaningful churn-risk group; root-causing this segment (late deliveries, product mismatch, seller-specific issues) would likely yield more actionable fixes than optimizing for the average.
+
+- **Reduce geographic dependency on São Paulo.** With 38.3% of revenue concentrated in one state, targeted marketing or seller-onboarding investment in the next-largest markets (Rio de Janeiro, Minas Gerais) could diversify revenue and reduce exposure to regional disruption.
+
+- **Prioritize delivery reliability improvements**, since the 7.9% late-delivery rate is a plausible contributor to the 1-star review cluster; cross-referencing late deliveries against review scores would confirm or rule out this link before allocating logistics spend.
+
+- **Support installment-based payment options as a retention lever**, given credit card's 73.9% share and near-3-installment average — this reflects real purchasing behavior in the Brazilian market rather than a preference to be optimized away.
